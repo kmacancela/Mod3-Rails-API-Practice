@@ -3,7 +3,7 @@ Today, you'll be starting your own e-commerce store! You'll be selling shoes and
 
 # Requirements
 
-* When a user loads the page, they should be able to see a list of all the shoes in the sidebar and by default, have the first shoe rendered on the main container (see below).
+<!-- * When a user loads the page, they should be able to see a list of all the shoes in the sidebar and by default, have the first shoe rendered on the main container (see below).  -->
 * When a user clicks on one of the shoes in the sidebar, they should be able to see more details about the shoe, the reviews associated with it and a form in the main container.
 * When a user fills the form out and submits it, the review should get persisted in the backend and also shown on the page, without refreshing.
 
